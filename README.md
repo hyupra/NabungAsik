@@ -5,7 +5,7 @@
 ### Fitur Utama
 * **Sistem Tabungan Digital**: Mencatat transaksi tabungan dan penarikan secara digital.
 * **Manajemen Poin Reward**: Menerapkan sistem poin yang terakumulasi berdasarkan aktivitas menabung siswa.
-* **Katalog Hadiah Koperasi**: Menampilkan daftar hadiah yang dapat ditukarkan oleh siswa.
+* **Katalog Hadiah Koperasi**: Menampilkan daftar hadiah yang dapat ditukarkan oleh siswa
 * **Dashboard Pengguna**: Menyajikan informasi saldo, riwayat transaksi, dan poin yang dimiliki.
 * **Admin Panel**: Untuk mengelola data siswa, mencatat transaksi, dan memperbarui daftar hadiah.
 
